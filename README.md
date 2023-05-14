@@ -35,6 +35,7 @@ We use Node.js v16.15.0 for featurization and Python v3.10.2 for everything else
   - To test layer 3, run `py 6-test_layer_3.py`
   - To get final results, run `py 7-stats_final.py`
   - To run model explanations, run `py 8-explain.py`
+  - To test the open-world scenario, run `py 9-open_world.py`
 
 #### Sample Results
 ```
