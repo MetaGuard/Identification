@@ -31,7 +31,7 @@ We use Node.js v16.15.0 for featurization and Python v3.10.2 for everything else
   - To train layers 1 and 2, run `py 1-train_layer_1.py` and `py 2-train_layer_2.py`
   - To form clusters for layer 3, run `py 3-test_and_cluster.py` and `py 4-generate_groups.py`
   - To train layer 3, run `py 5-train_layer_3.py`
-- Evaluation: `6-` through `8-`
+- Evaluation: `6-` through `9-`
   - To test layer 3, run `py 6-test_layer_3.py`
   - To get final results, run `py 7-stats_final.py`
   - To run model explanations, run `py 8-explain.py`
